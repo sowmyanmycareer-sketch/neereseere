@@ -1,0 +1,6 @@
+{
+  "name": "Neere Seere (ನೀರೆ ಸೀರೆ)",
+  "description": "A traditional saree destination featuring authentic handlooms, Kanjeevarams, soft silks, and festive collections with direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
